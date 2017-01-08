@@ -4,6 +4,7 @@ Single Page App Built using ReactJS + Reflux
 
 # Getting started
 1. run `npm install`
+2. run `npm start`
 
 
 ###Production Dependencies

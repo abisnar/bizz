@@ -2,6 +2,9 @@
   "name": "Bizz",
   "version": "1.0.0",
   "description": "Learning React and Redux",
+  "scripts":{
+    "start": "babel-node tools/srcServer.js"
+  },
   "author": "Allan Bisnar",
   "license": "MIT",
   "dependencies": {
