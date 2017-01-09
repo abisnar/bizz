@@ -5,7 +5,8 @@ class AboutPage extends React.Component {
     return (
       <div>
         <h1> About</h1>
-        <p> Hi, I'm Allan. I'm a Software Engineer learning 2 code. :) More to come soon!</p>
+        <p> Hi, I'm Allan. I'm a Software Engineer learning 2 code.</p>
+        <p> There is plenty more to come soon! </p>
         </div>
     );
   }
